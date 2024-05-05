@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osama AbuReesh</h1>
 <h3 align="center">I Aspire to be AI Specialist 💥 || Technical Training at DataCamp with GSG || Enthusiastic and interested in a Software Development. 🔥👨🏻‍💻</h3>
-<img align="center" alt="Coding" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamaabureesh&label=Profile%20views&color=0e75b6&style=flat" alt="osamaabureesh" /> </p>
 
 - 🔭 I’m currently working on **Image Recognitions 📸.**
