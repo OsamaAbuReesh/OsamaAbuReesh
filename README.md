@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Osama AbuReesh</h1>
+<div align="center" style="margin-top: 20px;">
+    <b>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=F7F7F7&random=false&width=700&lines=Hello+there!+🙋🏻‍♂️+I'm+Osama+AbuReesh" style="display: inline-block; vertical-align: top;">
+    </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display: inline-block; margin-top: 5px;">
+</div>
+<hr>
+
 <h3 align="center">I Aspire to be AI Specialist 💥 || Technical Training at DataCamp with GSG || Enthusiastic and interested in a Software Development. 🔥👨🏻‍💻</h3>
-<img align="center" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamaabureesh&label=Profile%20views&color=0e75b6&style=flat" alt="osamaabureesh" /> </p>
 
 - 🔭 I’m currently working on **Image Recognitions 📸.**
