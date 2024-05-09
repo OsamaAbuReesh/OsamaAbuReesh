@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **Great websites or something like this.**
 
-- 💬 Ask me about **python, js**
-
 - 📫 How to reach me **osama.aboresh7@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3QxyqdB](https://bit.ly/3QxyqdB)
